@@ -1,3 +1,13 @@
+
+## Basic Stopwatch
+
+* Simple Project to understand react native ecosystem.
+* Done under 1.5 hours , helful link  : https://www.youtube.com/watch?v=gWegskGYCtA&list=LLGy2XzC5h5NHiEOer_-VplA
+
+
+
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
